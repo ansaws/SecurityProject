@@ -1,0 +1,4 @@
+C:\Users\Shiva\OneDrive\Documents\GitHub\SecurityProject\SecurityProjectConsole\SecurityProjectConsole\bin\Debug\netcoreapp3.1\SecurityProjectConsole.exe
+C:\Users\Shiva\OneDrive\Documents\GitHub\SecurityProject\SecurityProjectConsole\SecurityProjectConsole\obj\Debug\netcoreapp3.1\SecurityProjectConsole.csprojAssemblyReference.cache
+C:\Users\Shiva\OneDrive\Documents\GitHub\SecurityProject\SecurityProjectConsole\SecurityProjectConsole\obj\Debug\netcoreapp3.1\SecurityProjectConsole.AssemblyInfoInputs.cache
+C:\Users\Shiva\OneDrive\Documents\GitHub\SecurityProject\SecurityProjectConsole\SecurityProjectConsole\obj\Debug\netcoreapp3.1\SecurityProjectConsole.AssemblyInfo.cs
