@@ -7,18 +7,18 @@ namespace SecurityProjectConsole
 {
     class Program
     {
-        MySqlConnection sqlConnection = new MySqlConnection
+        //MySqlConnection sqlConnection = new MySqlConnection
         
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome, Do you already have an account created? Y/N");
             string RegisterOrLogin = Console.ReadLine();
-            if (RegisterOrLogin == "Y")
+            if (RegisterOrLogin == "Y" || RegisterOrLogin == "y")
             {
                 Console.Clear();
 
             }
-            else if (RegisterOrLogin == "N")
+            else if (RegisterOrLogin == "N" || RegisterOrLogin == "n")
             {
                 Console.Clear();
                 Console.WriteLine("REGISTER \n");
