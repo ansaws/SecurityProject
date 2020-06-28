@@ -9,8 +9,8 @@ namespace SecurityProjectConsole
 {
     class Program
     {
-        //MySqlConnection sqlConnection = new MySqlConnection
-        
+        MySqlConnection Myconnection = new MySqlConnection("Server = sql.saye.org; Database=AnnishAndShivansh;Uid=student; Pwd=LearnSQL;SslMode=Required;");
+        MySqlCommand cmd;
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome, Do you already have an account created? Y/N");
