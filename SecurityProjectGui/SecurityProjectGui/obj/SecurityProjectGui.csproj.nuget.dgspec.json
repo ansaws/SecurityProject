@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ansaws18\\Documents\\GitHub\\SecurityProject\\SecurityProjectConsole\\SecurityProjectConsole\\SecurityProjectConsole.csproj": {}
+    "C:\\Users\\Ansaws18\\Documents\\GitHub\\SecurityProject\\SecurityProjectGui\\SecurityProjectGui\\SecurityProjectGui.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ansaws18\\Documents\\GitHub\\SecurityProject\\SecurityProjectConsole\\SecurityProjectConsole\\SecurityProjectConsole.csproj": {
+    "C:\\Users\\Ansaws18\\Documents\\GitHub\\SecurityProject\\SecurityProjectGui\\SecurityProjectGui\\SecurityProjectGui.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ansaws18\\Documents\\GitHub\\SecurityProject\\SecurityProjectConsole\\SecurityProjectConsole\\SecurityProjectConsole.csproj",
-        "projectName": "SecurityProjectConsole",
-        "projectPath": "C:\\Users\\Ansaws18\\Documents\\GitHub\\SecurityProject\\SecurityProjectConsole\\SecurityProjectConsole\\SecurityProjectConsole.csproj",
+        "projectUniqueName": "C:\\Users\\Ansaws18\\Documents\\GitHub\\SecurityProject\\SecurityProjectGui\\SecurityProjectGui\\SecurityProjectGui.csproj",
+        "projectName": "SecurityProjectGui",
+        "projectPath": "C:\\Users\\Ansaws18\\Documents\\GitHub\\SecurityProject\\SecurityProjectGui\\SecurityProjectGui\\SecurityProjectGui.csproj",
         "packagesPath": "C:\\Users\\Ansaws18\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ansaws18\\Documents\\GitHub\\SecurityProject\\SecurityProjectConsole\\SecurityProjectConsole\\obj\\",
+        "outputPath": "C:\\Users\\Ansaws18\\Documents\\GitHub\\SecurityProject\\SecurityProjectGui\\SecurityProjectGui\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -41,12 +41,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "MySql.Data": {
-              "target": "Package",
-              "version": "[8.0.20, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -60,6 +54,9 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
