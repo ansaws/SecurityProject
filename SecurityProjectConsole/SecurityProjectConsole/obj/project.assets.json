@@ -5951,20 +5951,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Shiva\\.nuget\\packages\\": {}
+    "C:\\Users\\Ansaws18\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shiva\\OneDrive\\Documents\\GitHub\\SecurityProject\\SecurityProjectConsole\\SecurityProjectConsole\\SecurityProjectConsole.csproj",
+      "projectUniqueName": "C:\\Users\\Ansaws18\\Documents\\GitHub\\SecurityProject\\SecurityProjectConsole\\SecurityProjectConsole\\SecurityProjectConsole.csproj",
       "projectName": "SecurityProjectConsole",
-      "projectPath": "C:\\Users\\Shiva\\OneDrive\\Documents\\GitHub\\SecurityProject\\SecurityProjectConsole\\SecurityProjectConsole\\SecurityProjectConsole.csproj",
-      "packagesPath": "C:\\Users\\Shiva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shiva\\OneDrive\\Documents\\GitHub\\SecurityProject\\SecurityProjectConsole\\SecurityProjectConsole\\obj\\",
+      "projectPath": "C:\\Users\\Ansaws18\\Documents\\GitHub\\SecurityProject\\SecurityProjectConsole\\SecurityProjectConsole\\SecurityProjectConsole.csproj",
+      "packagesPath": "C:\\Users\\Ansaws18\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ansaws18\\Documents\\GitHub\\SecurityProject\\SecurityProjectConsole\\SecurityProjectConsole\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Shiva\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Ansaws18\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -6007,7 +6012,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
