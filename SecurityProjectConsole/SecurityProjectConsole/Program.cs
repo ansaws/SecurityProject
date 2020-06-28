@@ -1,11 +1,14 @@
-﻿using System;
-using MySql.Data.MySqlClient;
+﻿using MySql.Data.MySqlClient;
+using System;
+using System.Data.SqlClient;
 using System.Text.RegularExpressions;
 
 namespace SecurityProjectConsole
 {
     class Program
     {
+        MySqlConnection sqlConnection = new MySqlConnection
+        
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome, Do you already have an account created? Y/N");
